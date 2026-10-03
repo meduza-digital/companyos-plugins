@@ -1,0 +1,16 @@
+{
+  "name": "companyos",
+  "description": "CompanyOS plugins for Claude",
+  "owner": {
+    "name": "CompanyOS",
+    "email": "support@companyos.cc",
+    "url": "https://companyos.cc"
+  },
+  "plugins": [
+    {
+      "name": "companyos",
+      "source": "./claude/companyos",
+      "description": "Run, update and search your CompanyOS Procedures and Company Files from Claude."
+    }
+  ]
+}

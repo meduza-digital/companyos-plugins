@@ -1,0 +1,20 @@
+{
+  "name": "companyos",
+  "displayName": "CompanyOS",
+  "version": "0.1.0",
+  "description": "Run your Workspace's CompanyOS Procedures, update them, and search your Company Files with cited answers.",
+  "author": {
+    "name": "CompanyOS",
+    "email": "support@companyos.cc",
+    "url": "https://companyos.cc"
+  },
+  "homepage": "https://companyos.cc/docs/connect-claude/",
+  "repository": "https://github.com/meduza-digital/companyos-plugins",
+  "license": "MIT",
+  "keywords": ["companyos", "procedures", "knowledge", "company-files", "mcp"],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://companyos.cc/docs/connect-claude/",
+  "supportUrl": "https://companyos.cc/support/",
+  "privacyPolicyUrl": "https://companyos.cc/privacy/",
+  "termsOfServiceUrl": "https://companyos.cc/terms/"
+}

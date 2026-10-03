@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "companyos": {
+      "type": "http",
+      "url": "https://app.companyos.cc/api/mcp"
+    }
+  }
+}
